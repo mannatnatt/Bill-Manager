@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 10 22:22:59 GMT-04:00 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0170-c766-f958-00000685b800 
+on database directory C:\Users\Mannat Natt\Documents\NetBeansProjects\BillManager1\billdatabase with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/C:/Users/Mannat%20Natt/Documents/NetBeansProjects/BillManager1/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\Mannat Natt\Documents\NetBeansProjects\BillManager1\dist
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

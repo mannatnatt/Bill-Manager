@@ -1,0 +1,59 @@
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: linear-gradient(#328BDB 0%, #207BCF 25%, #1973C9 75%, #0A65BF 100%);
+    -fx-text-fill: white;
+}
+
+
+
+
+//.list-cell:even { /* <=== changed to even */
+  //  -fx-background-color: white;
+//}
+
+
+.cb{
+    
+    -fx-mark-color:green;
+    
+}
+
+
+.button:pressed{
+    -fx-background-insets: 1;
+    
+}
+.button:hover{
+    -fx-background-color:#3366ff;
+    
+}
+
+
+.button{
+    -fx-background-color:#66ccff;
+    -fx-border-radius:  10,10,9;
+    -fx-text-fill: white;
+}
+
+
+.list-cell:filled:hover {
+    -fx-background-color:#9999ff;
+    -fx-text-fill: white;
+}
+.list-cell{
+    -fx-border-color: #666666;
+    -fx-border-radius:  10,10,9;
+    -fx-border-width: 2.5;
+    -fx-background-color: #cccccc;
+     -fx-background-insets: 0 0 -1 0,0,1;
+    -fx-background-radius: 10,10,9;
+  -fx-padding: 5 10 5 10;
+    -fx-text-fill: #242d35;
+    -fx-font-size: 16px;
+    
+}
+
+
+.root{
+    -fx-background-color:white;
+}
